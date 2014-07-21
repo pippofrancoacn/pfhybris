@@ -1,10 +1,23 @@
+hybris-mobile-apps/
+hybris-oms/
+hybris-sbg/
+licenses/
+
 hybris/data/
 hybris/config/
 hybris/temp/
 hybris/log/
+hybris/sample-configurations
 
+hybris/bin/ext-accelerator/
+hybris/bin/ext-addon/
+hybris/bin/ext-channel/
+hybris/bin/ext-commerce/
+hybris/bin/ext-content/
+hybris/bin/ext-data/
 hybris/bin/ext-platform/
 hybris/bin/ext-platform-optional/
+hybris/bin/ext-print/
 hybris/bin/ext-template/
 hybris/bin/platform/
 
