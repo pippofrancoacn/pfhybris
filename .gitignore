@@ -1,0 +1,28 @@
+hybris/data/
+hybris/config/
+hybris/temp/
+hybris/log/
+
+hybris/bin/ext-platform/
+hybris/bin/ext-platform-optional/
+hybris/bin/ext-template/
+hybris/bin/platform/
+
+hybris/bin/custom/**/bin/
+hybris/bin/custom/**/build.xml
+hybris/bin/custom/**/classes/
+hybris/bin/custom/**/eclipsebin/
+hybris/bin/custom/**/extensioninfo.xsd
+# Needed cause eclipse sucks
+hybris/bin/custom/**/hmc/bin/
+# Needed cause eclipse sucks
+hybris/bin/custom/**/hmc/classes/
+hybris/bin/custom/**/jalo/
+hybris/bin/custom/**/platformhome.properties
+hybris/bin/custom/**/resources/*/*-testclasses.xml
+hybris/bin/custom/**/resources/*/*-webtestclasses.xml
+hybris/bin/custom/**/resources/items.xsd
+hybris/bin/custom/**/web/testclasses/
+# Needed cause eclipse sucks
+hybris/bin/custom/**/web/webroot/WEB-INF/classes/
+
